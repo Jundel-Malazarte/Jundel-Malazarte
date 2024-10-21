@@ -16,6 +16,7 @@ I completed my Information Technology from [University of Cebu Main](https://uc.
 
 #### Languages:
 
+![JavaScript](https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
