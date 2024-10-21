@@ -60,9 +60,9 @@ I graduated with a degree in Information Technology from University of Cebu Main
 [<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/malazartejundel101101)
 
 </p>
-
-![Jundels's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<a align="center">
+  ![Jundels's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true)
+</a>
 | ------------- | ------------- |
 
 <!-- 
