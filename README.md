@@ -60,7 +60,7 @@ I graduated with a degree in Information Technology from University of Cebu Main
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundelmalazarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazart29&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazart29&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
