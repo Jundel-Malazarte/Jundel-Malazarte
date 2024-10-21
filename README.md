@@ -1,16 +1,16 @@
 ### Hi there, I'm [Jundel Malazarte](https://www.facebook.com/Malazartejundel101101/) 👋
 
-I completed my Information Technology from [University of Cebu Main](https://uc.edu.ph), Philippines. Apart from that, I am a Jr. Developer who wants to learn something new (Software Development, Web Development, and Productivity) and contribute to open source GitHub projects.
+I completed my Information Technology course from [University of Cebu Main](https://uc.edu.ph) in the Philippines. I am also a junior developer who wants to learn something new (Software Development, Web Development, and Productivity) and contribute to open-source GitHub projects.
 
 **My Research Interest**:
-- 
--
+- Software 
+
 
  **I am open to**:
 
 - any collaboration work,
-- (Web development or research),
-- research internships and Software Development
+- (Web development or Software Development),
+- Research internships and Software Development
 
 
 ## Skills:
@@ -60,12 +60,12 @@ I completed my Information Technology from [University of Cebu Main](https://uc.
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/malazartejundel101101)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundelmalazarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/jundelmalazarte/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundelmalazarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazart29&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 <!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
