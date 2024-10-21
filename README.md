@@ -61,7 +61,8 @@ I graduated with a degree in Information Technology from University of Cebu Main
 
 </p>
 
-| ![Jundels's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true) |
+![Jundels's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 | ------------- | ------------- |
 
 <!-- 
