@@ -52,11 +52,12 @@ I graduated with a degree in Information Technology from University of Cebu Main
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://jundel-malazarte29.github.io)
-[<img src ="https://img.shields.io/badge/facebook-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://www.facebook.com/Malazartejundel101101)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://x.com/nullvoid0011) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jundel-malazarte-96a838323)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/malazartejundel101101)
+[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jundel-malazarte29.github.io)
+[<img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Malazartejundel101101)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nullvoid0011)
+[<img src="https://img.shields.io/badge/LinkedIn-%2312100E?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jundel-malazarte-96a838323)
+[<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/malazartejundel101101)
+
 </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundelmalazarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazart29&layout=compact&theme=buefy&hide_border=true" /></a> |
