@@ -1,10 +1,9 @@
 ### Hi there, I'm [Jundel Malazarte](https://www.facebook.com/Malazartejundel101101/) 👋
 
-I completed my Information Technology course from [University of Cebu Main](https://uc.edu.ph) in the Philippines. I am also a junior developer who wants to learn something new (Software Development, Web Development, and Productivity) and contribute to open-source GitHub projects.
+I graduated with a degree in Information Technology from University of Cebu Main in the Philippines. As a junior developer, I'm passionate about learning new technologies in Software Development, Web Development, and Productivity. I’m also eager to contribute to open-source projects on GitHub.
 
 **My Research Interest**:
 - Software 
-
 
  **I am open to**:
 
