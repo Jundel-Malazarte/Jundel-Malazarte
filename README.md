@@ -1,4 +1,4 @@
-### Hi there, I'm [Jundel Malazarte](https://www.facebook.com/Malazartejundel101101/) 👋
+### Hi there, I'm [Jundel Malazarte](https://www.canva.com/design/DAGURVHq0Y0/ipThdBmwc37t8Flld1FujA/edit?utm_content=DAGURVHq0Y0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/) 👋
 
 I graduated with a degree in Information Technology from University of Cebu Main in the Philippines. As a junior developer, I'm passionate about learning new technologies in Software Development, Web Development, and Productivity. I’m also eager to contribute to open-source projects on GitHub.
 
