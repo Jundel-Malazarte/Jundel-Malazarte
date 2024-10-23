@@ -75,7 +75,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 
 ---
 <!--[![Visitor Count](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/> -->
-Visitor Count
+##Visitor Count <br/>
 ![Visitor Count](https://profile-counter.glitch.me/jundel-malazarte29/count.svg)
 
 
