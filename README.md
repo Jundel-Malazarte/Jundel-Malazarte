@@ -12,7 +12,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 - Web development or Software Development,
 - Research internships and Software Development,
 
-** I am looking position **:
+**I am looking position**:
 - Frontend Developer
 
 ## Skills:
