@@ -74,7 +74,8 @@ I graduated with a degree in Information Technology from the University of Cebu 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte29&theme=dark&show_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/>
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 <!-- 
 <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jundel's github stats" /></a>
