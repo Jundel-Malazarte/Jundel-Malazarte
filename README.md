@@ -12,7 +12,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 - Web development or Software Development,
 - Research internships and Software Development,
 
-**I am looking position**:
+**I am looking for position**:
 - Frontend Developer
 
 ## Skills:
@@ -72,7 +72,9 @@ I graduated with a degree in Information Technology from the University of Cebu 
 ![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte29&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte29&theme=dark&show_border=false)
-
+---
+## GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=jundel-malazarte29&theme=dark&show-frame=false&no-bg=false&margin-w=4)
 ---
 <!--[![Visitor Count](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/> -->
 <strong>Visitor Count</strong><br/>
@@ -97,4 +99,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🏆 trophy
 -->
