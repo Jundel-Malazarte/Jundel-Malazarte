@@ -3,8 +3,7 @@
 I graduated with a degree in Information Technology from the University of Cebu Main in the Philippines. As a junior developer, I'm passionate about learning new technologies in Software Development, Web Development, and Productivity. I’m also eager to contribute to open-source projects on GitHub.
 
 **Interest in**:
-- Software 
-- Hardware
+- Software Development
 
  **I am open to**:
 
@@ -12,7 +11,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 - Web development or Software Development,
 - Research internships and Software Development,
 
-**I am looking for position**:
+**I am looking for a position**:
 - Frontend Developer
 
 ## Skills:
