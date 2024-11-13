@@ -60,7 +60,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jundel-malazarte29.github.io)
+[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jundel-malazarte.github.io)
 [<img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Malazartejundel101101)
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nullvoid0011)
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jundel-malazarte-96a838323)
@@ -68,17 +68,17 @@ I graduated with a degree in Information Technology from the University of Cebu 
 
 </p>
 
-![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&theme=dark&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte29&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte29&theme=dark&show_border=false)
+![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte&theme=dark&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte&theme=dark&show_border=false)
 ---
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=jundel-malazarte29&theme=dark&show-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jundel-malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4)
 ---
 <!--[![Visitor Count](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/> -->
 <strong>Visitor Count</strong><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/jundel-malazarte29/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jundel-malazarte/count.svg)
 
 
 <!-- 
