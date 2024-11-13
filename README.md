@@ -68,12 +68,12 @@ I graduated with a degree in Information Technology from the University of Cebu 
 
 </p>
 
-![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jundel-malazarte&theme=dark&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte&theme=dark&show_border=false)
 ---
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=jundel-malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4)
 ---
 <!--[![Visitor Count](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/> -->
 <strong>Visitor Count</strong><br/>
