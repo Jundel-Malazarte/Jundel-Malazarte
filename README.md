@@ -14,7 +14,7 @@ I graduated with a degree in Information Technology from the University of Cebu 
 **I am looking for a position**:
 - Frontend Developer
 
-## Skills:
+## Tech Stack:
 
 #### Languages:
 
