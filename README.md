@@ -76,11 +76,15 @@ I graduated with a degree in Information Technology from the University of Cebu 
 [<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/malazartejundel101101)
 
 </p>
+
 ## Socials:
+<p align = "center">
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Malazartejundel101101) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jundelmalazarte29)  
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@null_void29) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@nullvoid-m29)
+</p>
+
 
 ![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
