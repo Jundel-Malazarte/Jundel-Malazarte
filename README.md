@@ -91,6 +91,12 @@ Information Technology Student from the University of Cebu Main in the Philippin
 
 ![Visitor Count](https://profile-counter.glitch.me/jundel-malazarte/count.svg)
 
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/Jundel-Malazarte/Jundel-Malazarte/blob/output/github-snake-dark.svg)
+</div>
+
 
 <!-- 
 <a href="https://github.com/jundel-malazarte29/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte29&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Jundel's github stats" /></a>
