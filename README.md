@@ -4,16 +4,15 @@ Information Technology Student from the University of Cebu Main in the Philippin
 
 **Interest in**:
 - Software Development
+- Frontend Developer
+- Backend Developer 
 
  **I am open to**:
 
 - Any collaboration work,
 - Web development or Software Development,
-- Research internships and Software Development,
-
-**I am looking for a position**:
-- Frontend Developer
-
+- Research internships and Software Development
+  
 ## Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
