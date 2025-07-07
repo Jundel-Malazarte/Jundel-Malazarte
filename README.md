@@ -1,4 +1,4 @@
-### Hi there fellow Developer, I'm [Jundel Malazarte (https://www.canva.com/design/DAGr7PDxqK4/Lc4hSt_4XdZFUyZoGs2EHw/viewutm_content=DAGr7PDxqK4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0d5973e40f)] 👋
+### Hi there fellow Developer, I'm [Jundel Malazarte](https://www.canva.com/design/DAGr7PDxqK4/Lc4hSt_4XdZFUyZoGs2EHw/viewutm_content=DAGr7PDxqK4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0d5973e40f) 👋
 
 🎓 Bachelor of Science in Information Technology graduate from the University of Cebu – Main Campus, Philippines.
 Aspiring software developer with a passion for learning modern technologies in software development, web development, and digital productivity.
