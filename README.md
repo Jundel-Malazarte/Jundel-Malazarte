@@ -46,18 +46,25 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Tools and Technologies
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+<!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp; -->
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 #### IDEs
 
@@ -92,10 +99,17 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ## GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4)
 ---
+
+<!-- Visitor Count -->
+
 <!--[![Visitor Count](https://visitcount.itsvg.in/api?id=jundel-malazarte29&icon=9&color=000000&textcolor=ffffff)](https://visitcount.itsvg.in)<br/> -->
 <strong>Visitor Count</strong><br/>
 
-![Visitor Count](https://profile-counter.glitch.me/jundel-malazarte/count.svg)
+<!--
+![Visitor Count](https://profile-counter.glitch.me/Jundel-Malazarte/count.svg)
+-->
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Jundel-Malazarte.visitor-badge)
 
 <!-- Snake Animation 
 <div align="center">
