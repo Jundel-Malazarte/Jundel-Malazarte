@@ -19,6 +19,9 @@ Always eager to contribute to open-source projects and grow through collaboratio
 - Any collaboration work,
 - Web development or Software Development,
 - Research internships and A.I
+
+  **Email me**@
+- jundelmalazarte348@gmail.com
   
 ## Tech Stack:
 
