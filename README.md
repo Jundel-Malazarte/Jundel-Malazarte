@@ -6,14 +6,19 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 **Interest in**:
 - Software Development
-- Frontend Developer
-- Backend Developer 
+- Web Development
+- Backend Development
+- IoT Projects
+- Machine Learning
+- Artificial Inteligence
+- Hardwares (PC's)
+- Technician (Phone Repairs, iOS & Android)
 
  **I am open to**:
 
 - Any collaboration work,
 - Web development or Software Development,
-- Research internships and Software Development
+- Research internships and A.I
   
 ## Tech Stack:
 
@@ -27,7 +32,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<!--![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -43,10 +48,13 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PhpCake](https://img.shields.io/badge/PhpCake-1266A3?style=for-the-badge&logo=phpcake&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### Database
 
@@ -74,6 +82,10 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-00599C?style=for-the-badge&logo=dev-c%2b%2b&logoColor=white)
+![CodeBlocks](https://img.shields.io/badge/CodeBlocks-0078D7.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
+![Quincy2005](https://img.shields.io/badge/Quincy_2005-4285F4.svg?style=for-the-badge&logo=quincy2005&logoColor=white)
+![JGrasp](https://img.shields.io/badge/JGrasp-0078D7.svg?style=for-the-badge&logo=jgrasp&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Connect with me:
