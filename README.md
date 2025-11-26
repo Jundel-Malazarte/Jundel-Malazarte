@@ -109,10 +109,10 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 ![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jundel-malazarte&theme=dark&show_border=false)
+![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4&cache=true)
 ---
 
 <!-- Visitor Count -->
