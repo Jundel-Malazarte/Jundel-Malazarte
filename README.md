@@ -1,27 +1,28 @@
-### Hi there fellow Developer, I'm [Jundel Malazarte](https://www.canva.com/design/DAGr7PDxqK4/jNSv_f1KSuxcW3N5EiXsaw/edit?utm_content=DAGr7PDxqK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 👋
+### Hi there fellow Developer, I'm [Jundel Malazarte](https://www.canva.com/design/DAG6V4asgK8/S_pqGWV2yCBtwiON-w8qFQ/view?utm_content=DAG6V4asgK8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h11bd880263) 👋
 
 🎓 Bachelor of Science in Information Technology graduate from the University of Cebu – Main Campus, Philippines.
 Aspiring software developer with a passion for learning modern technologies in software development, web development, and digital productivity.
 Always eager to contribute to open-source projects and grow through collaboration on GitHub.
 
-**Interest in**:
-- Software Development
-- Web Development
-- Backend Development
-- IoT Projects
-- Machine Learning
-- Artificial Inteligence
-- Hardwares (PC's)
-- Technician (Phone Repairs, iOS & Android)
+**Interests**:
+
+- **Software Development**: Developing scalable, efficient, and reliable software using various programming languages and frameworks.
+- **Web Development**: Building responsive, user-friendly, and accessible web applications using modern web technologies.
+- **Backend Development**: Designing and implementing robust, secure, and scalable backend systems using server-side programming languages.
+- **IoT Projects**: Developing innovative solutions using microcontrollers, sensors, and other IoT devices.
+- **Machine Learning**: Building and deploying AI models using machine learning algorithms, deep learning, and natural language processing.
+- **Artificial Intelligence**: Developing intelligent systems that can perform tasks that typically require human intelligence.
+- **Hardwares**: Building, repairing, and upgrading PC's, laptops, and other computer hardware.
+- **Technician**: Repairing and troubleshooting iOS and Android devices, as well as other consumer electronics.
 
  **I am open to**:
 
-- Any collaboration work,
-- Web development or Software Development,
-- Research internships and A.I
+- Collaborations in software development, web development, and digital productivity
+- Research internships and A.I projects
+- Freelance work or consulting projects
 
-  **Email me**@
-- jundelmalazarte348@gmail.com
+  **Reach out to me**@
+- jundelmalazarte348@gmail.com (for clients who need my services)
   
 ## Tech Stack:
 
@@ -35,7 +36,6 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!--![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)-->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -43,9 +43,10 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Editing:
+### Editing Softwares:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 #### Frameworks
 
@@ -53,6 +54,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-6f3cfc.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PhpCake](https://img.shields.io/badge/PhpCake-1266A3?style=for-the-badge&logo=phpcake&logoColor=white)
@@ -69,15 +71,18 @@ Always eager to contribute to open-source projects and grow through collaboratio
 #### Tools and Technologies
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D7.svg?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Mac OS](https://img.shields.io/badge/Mac_OS-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-3ECB8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089CD?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-#### IDEs
+#### IDE's
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -97,9 +102,9 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 [<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jundel-malazarte.github.io)
 [<img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/malazartejundel29)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nullvoid0011)
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jundel-malazarte-98a8b4257/)
 [<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jundelmalazarte)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nullvoid0011)
 
 </p>
 
@@ -107,7 +112,8 @@ Always eager to contribute to open-source projects and grow through collaboratio
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malazartejundel29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jundelmalazarte) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@null_void29) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nullvoid-m29)
 
 
-![Jundel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
+![Jundel's GitHub stats]
+[](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
