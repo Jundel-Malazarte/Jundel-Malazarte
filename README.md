@@ -109,16 +109,19 @@ Always eager to contribute to open-source projects and grow through collaboratio
 </p>
 
 ## Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malazartejundel29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jundelmalazarte) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@null_void29) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nullvoid-m29)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malazartejundel29)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]
+(https://instagram.com/jundelmalazarte) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@null_void29)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nullvoid-m29)
 
 
-![Jundel's GitHub stats]
-[](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
+![Jundel's GitHub statistics](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&theme=dark&show-frame=false&no-bg=false&margin-w=4&cache=true)
+![](https://github-profile-trophy.vercel.app/api/github?username=Jundel-Malazarte&theme=dark&show_frame=false&no_bg=false&margin_w=4&cache=true)
 ---
 
 <!-- Visitor Count -->
