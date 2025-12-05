@@ -44,7 +44,9 @@ Always eager to contribute to open-source projects and grow through collaboratio
 #### Editing Softwares:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![ClipChamp](https://img.shields.io/badge/Adobe_ClipChamp-FF0000?style=for-the-badge&logo=clipchamp&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-5C636C.svg?style=for-the-badge&logo=capcut&logoColor=white)
+![Alight Motion](https://img.shields.io/badge/Alight_Motion-0078D7.svg?style=for-the-badge&logo=alight-motion&logoColor=white)
 
 #### Frameworks
 
@@ -64,7 +66,9 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Microsoft Azure SQL Database](https://img.shields.io/badge/Microsoft_Azure_SQL_Database-007ACC.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### Tools and Technologies
