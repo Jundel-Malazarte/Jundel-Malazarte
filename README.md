@@ -123,8 +123,10 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
 ## GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/api/github?username=Jundel-Malazarte&theme=dark&show_frame=false&no_bg=false&margin_w=4&cache=true)
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
+</div>
+
 
 <!-- Visitor Count -->
 
