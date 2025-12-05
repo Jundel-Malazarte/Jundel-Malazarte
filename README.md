@@ -24,40 +24,41 @@ Always eager to contribute to open-source projects and grow through collaboratio
   **Reach out to me**@
 - jundelmalazarte348@gmail.com (for clients who need my services)
   
-## Tech Stack:
+### Tech-Stack
+#### Programming Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=aspdotnet&logoColor=white)
+![Visual Basic .NET](https://img.shields.io/badge/Visual_Basic_.NET-008080?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B400?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8E.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Editing Softwares:
+#### Editing Softwares:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 #### Frameworks
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-6f3cfc.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PhpCake](https://img.shields.io/badge/PhpCake-1266A3?style=for-the-badge&logo=phpcake&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=aspdotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -80,8 +81,11 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![Supabase](https://img.shields.io/badge/Supabase-3ECB8E?style=for-the-badge&logo=supabase&logoColor=white)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0089CD?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
+![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-Hosted_Frontend-FF69B4.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 #### IDE's
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -94,6 +98,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-0078D7.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Quincy2005](https://img.shields.io/badge/Quincy_2005-4285F4.svg?style=for-the-badge&logo=quincy2005&logoColor=white)
 ![JGrasp](https://img.shields.io/badge/JGrasp-0078D7.svg?style=for-the-badge&logo=jgrasp&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90A4D9?style=for-the-badge&logo=notepad%2b%2b&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Connect with me:
@@ -116,7 +121,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 
 ### Jundel's GitHub statistics<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://gitprofile-jundel-malazarte.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
 ## GitHub Trophies:
