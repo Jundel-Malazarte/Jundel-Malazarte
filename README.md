@@ -105,7 +105,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jundel-malazarte.github.io)
+[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://gitprofile-jundel-malazarte.vercel.app/)
 [<img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/malazartejundel29)
 [<img src="https://img.shields.io/badge/LinkedIn-%2312100E?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jundel-malazarte-98a8b4257/)
 [<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jundelmalazarte)
@@ -121,7 +121,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 
 ### Jundel's GitHub statistics<br/>
-![](https://gitprofile-jundel-malazarte.vercel.app/api/top-langs/?username=Jundel-Malazarte&theme=dark&show_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Jundel-Malazarte&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=false&layout=compact)<br/>
 ![](https://github-streak-stats.herokuapp.com/user/jundel-malazarte)
 ---
 ## GitHub Trophies:
