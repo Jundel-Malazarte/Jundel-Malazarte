@@ -86,6 +86,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-Hosted_Frontend-FF69B4.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![InfinityFree](https://img.shields.io/badge/InfinityFree-Violet.svg?style=for-the-badge&logo=InfinityFree&logoColor=violet)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 #### IDE's
