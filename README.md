@@ -118,7 +118,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@d3f4ult29)
 
 
-### Jundel's GitHub statistics
+### Jundel's GitHub Statistics
 <div align="left">
 <img align="left" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=jundel-malazarte&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=%20Jundel-Malazarte%20is%20Learning</>" alt="Jundel's GitHub Stats">
 </div>
