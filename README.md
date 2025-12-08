@@ -44,7 +44,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 #### Editing Softwares:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![ClipChamp](https://img.shields.io/badge/Adobe_ClipChamp-FF0000?style=for-the-badge&logo=clipchamp&logoColor=white)
+![ClipChamp](https://img.shields.io/badge/ClipChamp-8B0AFF.svg?style=for-the-badge&logo=clipchamp&logoColor=violet)
 ![CapCut](https://img.shields.io/badge/CapCut-5C636C.svg?style=for-the-badge&logo=capcut&logoColor=white)
 ![Alight Motion](https://img.shields.io/badge/Alight_Motion-0078D7.svg?style=for-the-badge&logo=alight-motion&logoColor=white)
 
@@ -85,7 +85,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 ![Azure](https://img.shields.io/badge/Azure-0089CD?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D27.svg?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![Render](https://img.shields.io/badge/Render-Hosted_Frontend-FF69B4.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-FF69B4.svg?style=for-the-badge&logo=render&logoColor=white)&nbsp;
 ![InfinityFree](https://img.shields.io/badge/InfinityFree-Violet.svg?style=for-the-badge&logo=InfinityFree&logoColor=violet)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
