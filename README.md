@@ -130,7 +130,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 <!-- ## GitHub Trophies: --> 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jundel-Malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
+  <img src="https://github-profile-trophy.vercel.app?username=jundel-malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
 </div>
 
 
