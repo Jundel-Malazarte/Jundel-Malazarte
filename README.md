@@ -108,20 +108,12 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://gitprofile-jundel-malazarte.vercel.app/)
-[<img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/malazartejundel29)
-[<img src="https://img.shields.io/badge/LinkedIn-%2312100E?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jundel-malazarte-98a8b4257/)
-[<img src="https://img.shields.io/badge/Instagram-%2312100E?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jundelmalazarte)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/nullvoid0011)
-
-</p>
-
-## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/malazartejundel29)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jundelmalazarte)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@null_void29)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@d3f4ult29)
 
+</p>
 
 ### Jundel's GitHub Statistics
 <div align="left">
