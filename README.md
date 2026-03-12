@@ -128,7 +128,8 @@ Always eager to contribute to open-source projects and grow through collaboratio
 </div> -->
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jundel-malazarte&theme=onedark" alt="Github Trophies">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jundel-malazarte)](https://github.com/jundel-malazarte/github-profile-trophy)
 </div>
 
 
