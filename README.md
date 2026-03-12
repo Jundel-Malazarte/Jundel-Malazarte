@@ -1,4 +1,4 @@
-### Hi there fellow Developer, I'm [Jundel Malazarte](https://www.canva.com/design/DAG6V4asgK8/S_pqGWV2yCBtwiON-w8qFQ/view?utm_content=DAG6V4asgK8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h11bd880263) 👋
+### Hi there fellow Developer, I'm [Jundel Malazarte](https://www.canva.com/design/DAHB96tTufk/J3WUwW7irOQZFRDjTmw9Qg/view?utm_content=DAHB96tTufk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6bca4c1d6e) 👋
 
 🎓 Bachelor of Science in Information Technology graduate from the University of Cebu – Main Campus, Philippines.
 Aspiring software developer with a passion for learning modern technologies in software development, web development, and digital productivity.
@@ -122,7 +122,7 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 <!-- ## GitHub Trophies: --> 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=jundel-malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
+  <img src="https://github-profile-trophy.vercel.app/api?username=jundel-malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
 </div>
 
 
