@@ -129,7 +129,8 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jundel-malazarte)](https://github.com/jundel-malazarte/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=jundel-malazarte)](https://github.com/jundel-malazarte/github-profile-trophy)
+
 </div>
 
 
