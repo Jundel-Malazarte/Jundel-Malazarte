@@ -23,6 +23,8 @@ Always eager to contribute to open-source projects and grow through collaboratio
 
   **Reach out to me**@
 - jundelmalazarte348@gmail.com (for clients who need my services)
+- Currently working on personal projects & Clients Software Base Projects
+
   
 ### Tech-Stack
 #### Programming Languages:
