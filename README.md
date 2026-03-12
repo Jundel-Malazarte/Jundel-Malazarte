@@ -122,10 +122,15 @@ Always eager to contribute to open-source projects and grow through collaboratio
 <img align="left" src="https://github-readme-stats-rongronggg9.vercel.app/api?username=jundel-malazarte&include_all_commits=true&count_private=true&show_icons=true&theme=buefy&custom_title=%20Jundel-Malazarte%20is%20Learning</>" alt="Jundel's GitHub Stats">
 </div>
 
-<!-- ## GitHub Trophies: --> 
+<!-- ## GitHub Trophies:  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/api?username=jundel-malazarte&column=-1" alt="Jundel Malazarte's GitHub trophy">
-</div>
+</div> -->
+
+<!-- <div align="center"> -->
+    [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jundel-malazarte&theme=onedark)](https://github.com/jundel-malazarte/github-profile-trophy)
+
+
 
 
 <!-- Visitor Count -->
