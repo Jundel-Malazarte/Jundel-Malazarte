@@ -2,7 +2,7 @@
   
   # 👨‍💻 Jundel Malazarte
   
-  ### Full-Stack Developer | Software Engineer | Tech Innovator
+  ### Full-Stack Developer | Software Engineer | Technician | Graphic Designer | Mobile & PC Repair
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jundelmalazarte348@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jundel-malazarte-98a8b4257)
