@@ -64,6 +64,10 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&theme=algolia&hide_border=true&layout=compact" />
 </div>
 
+[![GitHub Stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Statistics&query=$.contributions&url=https://api.github.com/users/jundel-malazarte)](https://github.com/jundel-malazarte)
+
+[![Top Langs](https://img.shields.io/github/languages/top/jundel-malazarte?color=blue&style=flat)](https://github.com/jundel-malazarte)
+
 ---
 
 ## 🛠️ Technical Skills & Stack
