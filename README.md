@@ -8,6 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jundel-malazarte-98a8b4257)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jundel-malazarte)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=firefox&logoColor=white)](https://gitprofile-jundel-malazarte.vercel.app)
+  [![Resume](https://img.shields.io/badge/Resume-Download-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white)](https://canva.link/fblghnqcuvijy3q)
 
   ---
   
