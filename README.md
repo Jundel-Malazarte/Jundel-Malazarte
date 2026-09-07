@@ -61,13 +61,13 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte&theme=algolia&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&theme=algolia&hide_border=true&layout=compact" />
+  <a href="https://github.com/jundel-malazarte">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Jundel Malazarte's GitHub statistics" />
+  </a>
+  <a href="https://github.com/jundel-malazarte">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Jundel Malazarte's most used languages" />
+  </a>
 </div>
-
-[![GitHub Stats](https://img.shields.io/badge/dynamic/json?label=GitHub%20Statistics&query=$.contributions&url=https://api.github.com/users/jundel-malazarte)](https://github.com/jundel-malazarte)
-
-[![Top Langs](https://img.shields.io/github/languages/top/jundel-malazarte?color=blue&style=flat)](https://github.com/jundel-malazarte)
 
 ---
 
