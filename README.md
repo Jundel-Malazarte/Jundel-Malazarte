@@ -178,29 +178,30 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
-### Senior Full-Stack Developer
-**Tech Innovations Inc.** | *2022 - Present*
-- Architected and deployed microservices-based backend serving 100K+ requests/day
-- Led team of 5 junior developers, conducting code reviews and mentoring
-- Reduced API response time by 45% through optimization and caching strategies
-- Implemented CI/CD pipelines using GitHub Actions, reducing deployment time by 60%
+### Web Developer
+**MICS Cebu City Hall** | *2025 - Present*
+- Application Maintenance & Feature Development: Assisted in developing and maintaining internal web applications for multiple government departments using HTML, CSS, JavaScript, PHP, and MySQL.
+- Database Architecture & Design: Contributed to designing and implementing relational database structures (MySQL) to securely manage public records and internal administrative data.
+- Code Optimization & Performance: Collaborated with senior developers to refactor existing codebases, optimize database queries, and reduce page load times, ensuring high system reliability.
+- Technical Support & Documentation: Authored user documentation and delivered technical support to non-technical end users, streamlining onboarding and daily workflow efficiency.
+- Agile Collaboration & Bug Tracking: Actively participated in debugging sessions and team reviews to resolve software defects and ensure on-time delivery of project updates.
+
+### Technical Support
+**MICS Cebu City Hall** | *2025*
+- Network & Connectivity Management: Configured and maintained secure Wi-Fi networks and local infrastructure, ensuring high uptime and reliable office connectivity.
+- Hardware Assembly & Workstation Setup: Assembled custom desktop hardware and deployed standardized workstations for new hires, including full OS installation (Windows/Linux) and peripheral configuration.
+- Software Provisioning & Maintenance: Managed the deployment of enterprise productivity software, antivirus tools, and essential applications across company-wide devices.
+- Help Desk & Problem Resolution: Provided prompt hardware, software, and network troubleshooting to minimize operational downtime and improve user satisfaction.
 
 ### Full-Stack Developer
-**Digital Solutions Lab** | *2021 - 2022*
-- Developed and maintained 8+ production web applications using React & Node.js
-- Designed PostgreSQL databases with complex queries, improving query performance by 50%
-- Collaborated with UI/UX team to implement pixel-perfect React components
-- Mentored 3 junior developers on full-stack development best practices
-
-### Junior Developer
-**StartUp Ventures** | *2020 - 2021*
-- Built responsive web interfaces using HTML5, CSS3, and JavaScript
-- Contributed to backend API development using ASP.NET Core
-- Implemented automated testing, increasing code coverage from 40% to 85%
-
----
+**Nullified Solutions** | *2025 - 2026*
+- Web Application & Development: Developing using HTML, CSS, JavaScript, PHP, and MySQL.
+- Database & Design: Designed and managed MySQL databases for customer records, repair requests, service history, and inventory tracking.
+- Documentation: Created technical documentation, database notes, setup instructions, and user guides to support maintenance and future development.
+- Testing & Bug Tracking: Tested features across different devices and browsers, reproduced issues, tracked bugs, and implemented fixes to improve reliability.
+- Agile Methodology: Collaborated through iterative development, task planning, code reviews, and regular progress updates based on project requirements.
 
 ## 🎖️ Achievements & Highlights
 
@@ -208,9 +209,9 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ✅ **Performance Optimization**: Consistently improve application performance by 40-60%
 
-✅ **Team Leadership**: Successfully mentored 8+ junior developers into mid-level engineers
+✅ **Team Leadership**: Successfully mentored 5+ junior developers into mid-level
 
-✅ **Open Source Contributions**: 50+ pull requests merged across popular GitHub repositories
+✅ **Open Source Contributions**: 20+ pull requests merged across popular GitHub repositories
 
 ✅ **Innovation**: Pioneered AI-driven analytics solution adopted by 20+ enterprises
 
