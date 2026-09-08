@@ -60,6 +60,8 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ## 📊 GitHub Statistics
 
+<!-- 
+
 <div align="center">
   <a href="https://github.com/jundel-malazarte">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=jundel-malazarte&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Jundel Malazarte's GitHub statistics" />
@@ -68,6 +70,8 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jundel-malazarte&layout=compact&langs_count=8&theme=algolia&hide_border=true" alt="Jundel Malazarte's most used languages" />
   </a>
 </div>
+
+-->
 
 ---
 
@@ -130,11 +134,15 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ### 🤖 AI & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-0A84FF?style=for-the-badge&logo=openai&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF5F6D?style=for-the-badge&logo=rocket&logoColor=white)
+![Kiro AI](https://img.shields.io/badge/Kiro_AI-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1F6FEB?style=for-the-badge&logo=deepseek&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-7C3AED?style=for-the-badge&logo=code&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-222222?style=for-the-badge&logo=perplexity&logoColor=white)
 
 ### 📱 IoT & Hardware
 
