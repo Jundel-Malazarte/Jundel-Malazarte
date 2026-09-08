@@ -30,31 +30,46 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ## 🚀 Featured Projects
 
-### 1. 🌐 [Full-Stack E-Commerce Platform](#)
-- **Tech Stack**: Next.js, TypeScript, PostgreSQL, Stripe, AWS
-- Developed a scalable e-commerce platform serving 10K+ users
-- Implemented real-time inventory management and payment processing
-- Optimized database queries reducing load time by 60%
-- **Result**: Increased conversion rate by 35%
+### 1. 🛠️ [Nullified Solutions Tech Repair](#)
+- **Tech Stack**: PHP, JavaScript, MySQL, Bootstrap, Vercel
+- Built a full-stack booking platform for a tech repair business specializing in mobile and PC repair
+- Designed an appointment and service request system to help clients schedule device repairs efficiently
+- Implemented customer booking workflows, service tracking, and technician assignment features
+- Integrated a responsive interface for easy device repair inquiries and support management
+- **Result**: Improved repair scheduling efficiency and streamlined client support for device servicing
 
-### 2. 💡 [AI-Powered Analytics Dashboard](#)
-- **Tech Stack**: React, Python, Flask, TensorFlow, AWS
-- Built machine learning pipeline for predictive analytics
-- Real-time data visualization with 1M+ data points
-- Deployed on AWS Lambda with auto-scaling capabilities
-- **Result**: Saved clients $50K+ in operational costs annually
+### 2. 🌾 [CropCraft Mobile App](#)
+- **Tech Stack**: Flutter, JavaScript, MySQL, MS Azure, REST APIs, Firebase, Google Maps
+- Built a mobile app that helps farmers discover crop guidance, market access, and agricultural support
+- Designed a farmer-focused platform to connect local crop production with actual buyers and market demand in Cebu City
+- Implemented features for crop information, market listings, product visibility, and mobile-friendly farmer engagement
+- Integrated cloud-based backend and data management for reliable access to market and crop-related information
+- Added JavaScript-based humid/temperature monitoring support to help farmers track environmental conditions in real time
+- **Result**: Enabled farmers to better connect with the market and improve visibility for crop sales in Cebu City
 
-### 3. 📱 [Cross-Platform Mobile Application](#)
-- **Tech Stack**: Flutter, Firebase, REST APIs
-- Developed feature-rich mobile app with 4.8★ rating
-- Implemented offline-first architecture with real-time sync
-- 100K+ downloads across iOS and Android
+### 3. � [Online DTR System (Daily Time Record)](#)
+- **Tech Stack**: PHP, Vue.js, MySQL, REST API
+- Built an online Daily Time Record (DTR) system for Cebu City Hall employees to time in and time out digitally within the system
+- Designed a web-based attendance workflow to streamline employee time tracking, monitoring, and daily reporting
+- Implemented secure time entry, attendance validation, and employee records management in a centralized platform
+- Enabled online attendance management for efficient daily time recording from any browser-enabled device
+- **Future Idea**: Expand the system into a mobile app so employees can time in and out using their mobile devices
+- **Result**: Improved attendance accuracy and simplified daily time recording for employees
 
-### 4. 🔧 [IoT Smart Home Solution](#)
-- **Tech Stack**: Arduino, Python, Node.js, MQTT
-- Designed IoT ecosystem integrating 50+ smart devices
-- Real-time monitoring dashboard with predictive maintenance
-- Reduced energy consumption by 40%
+### 4. 🤖 [Intern-Hour-Tracker](#)
+- **Tech Stack**: React, Next.js, Google Cloud, PostgreSQL, Supabase, Vercel
+- Built a web app that helps interns track internship time, monitor attendance, and manage daily working hours efficiently
+- Designed a time-in and time-out workflow to simplify intern logbook tracking and daily attendance monitoring
+- Implemented real-time attendance records, reporting, and internship progress monitoring in a centralized platform
+- Integrated cloud-based storage and deployment for reliable access and management of intern time records
+- **Result**: Improved internship time tracking accuracy and streamlined daily monitoring for interns
+
+### 5. 🤖 [IoT Line-Follower Robot](#)
+- **Tech Stack**: Arduino, C++, IR Sensors, Motor Driver, PID Control
+- Built an autonomous line-following robot for maze navigation and path tracking
+- Integrated sensor-based control logic for real-time steering and obstacle avoidance
+- Added IoT monitoring via Bluetooth/Wi‑Fi for telemetry and remote debugging
+- **Result**: Achieved 95%+ line-following accuracy in test runs
 
 ---
 
@@ -251,12 +266,12 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 ## 🤝 Open to Opportunities
 
 I'm actively seeking:
-- 🎯 **Full-Time Positions**: Senior Developer, Tech Lead, or Architect roles
+- 🎯 **Full-Time Positions**: Web Developer, Jr. Mid-Level Developer, Full-Stack Developer
 - 💼 **Consulting Projects**: Enterprise-level software solutions
 - 🚀 **Startup Collaborations**: Building innovative products from scratch
 - 👨‍🏫 **Mentorship**: Sharing knowledge with junior developers
 - 📊 **AI/ML Research**: Contributing to cutting-edge AI projects
-- 🌐 **Remote & On-Site**: Flexible work arrangements
+- 🌐 **Remote & On-Site**: Flexible work arrangements, On-site or Hybrid
 
 ---
 
