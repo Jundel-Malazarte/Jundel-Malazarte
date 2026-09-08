@@ -16,7 +16,7 @@
 
 ## 🎯 Professional Summary
 
-Innovative and results-driven **Full-Stack Developer** with a **Bachelor's degree in Information Technology** from the University of Cebu. Specialized in building scalable, high-performance applications across multiple technologies and platforms. Demonstrated expertise in **Full-Stack Development**, **Cloud Architecture**, and **Emerging Technologies** with a proven track record of delivering enterprise-level solutions.
+Innovative and results-driven **Full-Stack Developer** with a **Bachelor's degree in Information Technology** from the University of Cebu Main Campus. Specialized in building scalable, high-performance applications across multiple technologies and platforms. Demonstrated expertise in **Full-Stack Development**, **Cloud Architecture**, and **Emerging Technologies** with a proven track record of delivering enterprise-level solutions.
 
 Passionate about leveraging cutting-edge technologies to solve complex business problems and mentor junior developers. Known for writing clean, maintainable code and implementing best practices in software development.
 
@@ -47,7 +47,7 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 - Added JavaScript-based humid/temperature monitoring support to help farmers track environmental conditions in real time
 - **Result**: Enabled farmers to better connect with the market and improve visibility for crop sales in Cebu City
 
-### 3. � [Online DTR System (Daily Time Record)](#)
+### 3. 🕒 [Online DTR System (Daily Time Record)](#)
 - **Tech Stack**: PHP, Vue.js, MySQL, REST API
 - Built an online Daily Time Record (DTR) system for Cebu City Hall employees to time in and time out digitally within the system
 - Designed a web-based attendance workflow to streamline employee time tracking, monitoring, and daily reporting
@@ -56,7 +56,7 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 - **Future Idea**: Expand the system into a mobile app so employees can time in and out using their mobile devices
 - **Result**: Improved attendance accuracy and simplified daily time recording for employees
 
-### 4. 🤖 [Intern-Hour-Tracker](#)
+### 4. ⏱️ [Intern-Hour-Tracker](#)
 - **Tech Stack**: React, Next.js, Google Cloud, PostgreSQL, Supabase, Vercel
 - Built a web app that helps interns track internship time, monitor attendance, and manage daily working hours efficiently
 - Designed a time-in and time-out workflow to simplify intern logbook tracking and daily attendance monitoring
