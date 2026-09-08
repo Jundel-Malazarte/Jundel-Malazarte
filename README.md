@@ -137,6 +137,8 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-0A84FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF5F6D?style=for-the-badge&logo=rocket&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![Kiro AI](https://img.shields.io/badge/Kiro_AI-6C63FF?style=for-the-badge&logo=ai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-1F6FEB?style=for-the-badge&logo=deepseek&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
