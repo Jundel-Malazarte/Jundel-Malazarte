@@ -1,8 +1,10 @@
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=9,8,10,12&animation=twinkling&section=header" />
+    <div align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jundel+Malazarte;Full+Stack+Developer;Technical+Support;AI+Fanatic+%2F+Vibe+Coder" alt="Typing SVG" />
+    </div>
   
-  # 👨‍💻 Jundel Malazarte
-  
-  ### Full-Stack Developer | Software Engineer | Technician | Graphic Designer | Mobile & PC Repair
+  ### Full-Stack Developer | Jr. Developer | Technical Support | Graphic Designer | Technician - Mobile & PC Repair
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jundelmalazarte348@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jundel-malazarte-98a8b4257)
