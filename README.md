@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=9,8,10,12&animation=twinkling&section=header" />
     <div align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=2B7FFF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jundel+Malazarte;Full+Stack+Developer;Technical+Support;AI+Fanatic+%2F+Vibe+Coder" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=5000&pause=1000&color=F5F5F4&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Jundel+Malazarte;Full+Stack+Developer;Technical+Support;AI+Fanatic+%2F+Vibe+Coder" alt="Typing SVG" />
     </div>
   
   ### Full-Stack Developer | Jr. Developer | Technical Support | Graphic Designer | Technician - Mobile & PC Repair
