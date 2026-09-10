@@ -232,15 +232,15 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ## 🎖️ Achievements & Highlights
 
-✅ **Award-Winning Projects**: 3 projects recognized in tech conferences and competitions
+✅ **Projects**: 3 projects recognized in tech conferences and competitions
 
 ✅ **Performance Optimization**: Consistently improve application performance by 40-60%
 
-✅ **Team Leadership**: Successfully mentored 5+ junior developers into mid-level
+✅ **Team Leadership**: Successfully mentored 3+ junior developers into mid-level developer
 
-✅ **Open Source Contributions**: 20+ pull requests merged across popular GitHub repositories
+✅ **Open Source Contributions**: 10+ pull requests merged across popular GitHub repositories
 
-✅ **Innovation**: Pioneered AI-driven analytics solution adopted by 20+ enterprises
+✅ **AI Enthusiast & Innovation**: Leveraging AI tools like Claude, Gemini, Antigravity, GitHub Copilot, and more to drive product innovation, accelerate development, and explore next-generation solutions.
 
 ✅ **Client Satisfaction**: Maintained 98% client satisfaction rate across all projects
 
