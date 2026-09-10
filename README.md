@@ -232,7 +232,7 @@ Passionate about leveraging cutting-edge technologies to solve complex business 
 
 ## 🎖️ Achievements & Highlights
 
-✅ **Projects**: 3 projects recognized in tech conferences and competitions
+✅ **Featured Projects**: 3 projects recognized in tech conferences and competitions
 
 ✅ **Performance Optimization**: Consistently improve application performance by 40-60%
 
